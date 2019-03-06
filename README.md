@@ -6,4 +6,4 @@ It contains
 2)Dockerfile [Custom docker image]
 3).boto file [where acces & secret key added]
 
-For security reasons i have not added AWS Access key & Secret key in .boto file.Please add it & run the docker image.Its working fine & dwonloading the file from s3 bucket & printing the number of times a keyword is repeated in file
+For security reasons i have not added AWS Access key & Secret key in .boto file.Please add it & run the docker image.Its working fine & downloading the file from s3 bucket & printing the number of times a keyword is repeated in file
